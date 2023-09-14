@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,Canal 5
+http://moontools.me:8080/b4ck9CABEfMc5JA/pxanQtVZRV/81991?c=|User-Agent==okhttp/4.10.0
+
+
 #EXTINF:-1,A&E HD
 http://190.61.57.2:1010/play/a017
 #EXTINF:-1,AMC HD
